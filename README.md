@@ -13,5 +13,5 @@
 よろしくお願いいたします。
 
 #レポート課題
-* [2016/10/05](https://github.com/handai-trema/hello-trema-KokiSakata/blob/master/report20161005.md)
+* [スイッチの切断イベント / Hello Trema(2016/10/05)](https://github.com/handai-trema/hello-trema-KokiSakata/blob/master/report20161005.md)
 
