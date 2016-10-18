@@ -15,3 +15,4 @@
 #レポート課題
 * [スイッチの切断イベント / Hello Trema(2016/10/05)](https://github.com/handai-trema/hello-trema-KokiSakata/blob/master/report20161005.md)
 * [Cbenchのボトルネック調査](https://github.com/handai-trema/cbench-KokiSakata/blob/master/report20161012cbench.md)
+* [複数スイッチ対応版ラーニングスイッチ](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)
