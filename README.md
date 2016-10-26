@@ -14,5 +14,7 @@
 
 #レポート課題
 * [スイッチの切断イベント / Hello Trema(2016/10/05)](https://github.com/handai-trema/hello-trema-KokiSakata/blob/master/report20161005.md)
-* [Cbenchのボトルネック調査](https://github.com/handai-trema/cbench-KokiSakata/blob/master/report20161012cbench.md)
-* [複数スイッチ対応版ラーニングスイッチ](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)
+* [Cbenchのボトルネック調査(2016/10/12)](https://github.com/handai-trema/cbench-KokiSakata/blob/master/report20161012cbench.md)
+* [複数スイッチ対応版ラーニングスイッチ(2016/10/12)](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)
+* [パッチパネルの機能拡張(2016/10/19)](https://github.com/handai-trema/patch-panel-KokiSakata/blob/master/report1019patchpanel.md)
+* [(マルチプルテーブルを読む2016/10/19)](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161019Inspecting_Multiple_Tbales.md)
