@@ -18,3 +18,4 @@
 * [複数スイッチ対応版ラーニングスイッチ(2016/10/12)](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161012learning_switch.md)
 * [パッチパネルの機能拡張(2016/10/19)](https://github.com/handai-trema/patch-panel-KokiSakata/blob/master/report1019patchpanel.md)
 * [マルチプルテーブルを読む(2016/10/19)](https://github.com/handai-trema/learning-switch-KokiSakata/blob/master/report20161019Inspecting_Multiple_Tbales.md)
+* [ルータのCLIを作ろう(1026/11/02)](https://github.com/handai-trema/simple-router-KokiSakata/blob/master/report20161102Developing%20Router%20CLI.md)
